@@ -3,7 +3,7 @@
 <!--
 **jaysoncynthia/jaysoncynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jaysoncynthia?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
